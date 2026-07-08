@@ -12,12 +12,5 @@
     "description": "This is another test issue",
     "priority": "medium",
     "status": "open"
-  },
-  {
-    "id": "dc91e14a-d392-4353-8004-a112b25a8192",
-    "title": "Issue two",
-    "description": "This is another test issue",
-    "priority": "medium",
-    "status": "open"
   }
 ]
